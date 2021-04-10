@@ -161,8 +161,6 @@ $(function () {
                     $(this).attr("src", "Images/plus.png");
                 }
             }
-
-       
         })
     })
 })
